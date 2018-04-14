@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+### Welcome to Thinhouse
 
-You can use the [editor on GitHub](https://github.com/thinhouse/thinhouse.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the place where I learn to develop blockchain Dapps. My current project is working with ##ERC 721 protocol. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
